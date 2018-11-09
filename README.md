@@ -24,7 +24,7 @@ Follow this steps
 
 ```sh
 > cd ~/projects
-> git clone https://github.com/nicky/dotfiles.git
+> git clone git@github.com:nicky-96/dotfiles.git
 > cd dotfiles
 > cp ./gitconfig ~/.gitconfig
 >
